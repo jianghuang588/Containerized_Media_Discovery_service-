@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">movie_application</string>
+    <string name="loginText">Movie Finder</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">ConfirmPassword</string>
+    <string name="loginButton">Login</string>
+    <string name="registerButton">Register Page</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Click below for more info</string>
+    <string name="button">rate</string>
+    <string name="userInformation">Movie Detail</string>
+    <string name="popularMovie">Popular Movie</string>
+    <string name="upcomingMovie">Upcoming Movie</string>
+    <string name="rateTheApp">Rate App</string>
+    <string name="descriptiotnOfApp">Tell the author how satisfied you are with this app by rating it below.</string>
+    <string name="rateButton">rate</string>
+    <string name="wordForPersonal">Personal Profile</string>
+    <string name="deleteText">Click the below button to delete the account</string>
+    <string name="loginOutButton">Login Out</string>
+    <string name="movieLibrary">Movie Library</string>
+    <string name="textMovieSearch">Movie Search</string>
+
+
+
+
+
+
+
+
+
+
+
+</resources>
+
