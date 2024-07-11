@@ -14,7 +14,7 @@
 ![Top250_Movie](https://github.com/user-attachments/assets/ae9fb4e2-849f-472d-87ce-f7971ea72329)
 ## Upcoming Movie Page 
 ![Upcoming_Movie_Page](https://github.com/user-attachments/assets/47008cb8-4cda-468c-b6ea-17becffa8e2d)
-## Synchronize and Personal Profile
+## Synchronize and Personal Profile Page
 ![rating](https://github.com/user-attachments/assets/dabbe065-9c0b-4d71-9e4c-c56a1784b0e7)
 
 
