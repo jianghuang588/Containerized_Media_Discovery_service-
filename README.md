@@ -1,4 +1,4 @@
-![Upcoming_Movie_Page](https://github.com/user-attachments/assets/913379b6-8425-4159-90a5-03eb3f2c8e4f)# Instruction:
+# Instruction:
 - Set up android studio environemt
 - Download the Movie Finder App from Github
 - Put the folder in the desirable location
@@ -16,3 +16,6 @@
 ![Upcoming_Movie_Page](https://github.com/user-attachments/assets/47008cb8-4cda-468c-b6ea-17becffa8e2d)
 ## Synchronize and Personal Profile
 ![rating](https://github.com/user-attachments/assets/dabbe065-9c0b-4d71-9e4c-c56a1784b0e7)
+
+
+
