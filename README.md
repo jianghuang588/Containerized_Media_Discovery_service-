@@ -3,7 +3,7 @@
 - Download the Movie Finder App from Github
 - Put the folder in the desirable location
 - Use the android studio to open the Movie Finder App
-# Movie Finder App Walk Through
+# Movie Finder App Walk Through:
 ## Register and Login Screen
 ![login_register](https://github.com/jianghuang588/Project/assets/143280771/25151349-421b-46ab-840e-d79cbb3f39a9)
 ## Movie Page
