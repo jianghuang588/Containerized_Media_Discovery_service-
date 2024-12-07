@@ -19,14 +19,14 @@
 
 ---
 
-### 📝 **Screenshots**
+### 📝 **Screencasts (GIFs)**
 
 <details>
 <summary>🔐 **Register and Login Screen**</summary>
 
 ![Register and Login Screen](https://github.com/jianghuang588/Project/assets/143280771/25151349-421b-46ab-840e-d79cbb3f39a9)
 
-> **Description**: The first screen users encounter to log in or register for the app.
+> **Description**: The first screen users encounter to log in or register for the app. *(GIF)*
 
 </details>
 
@@ -35,7 +35,7 @@
 
 ![Movie Page](https://github.com/jianghuang588/Project/assets/143280771/871379b5-ae02-47f8-a85a-9c218a074861)
 
-> **Description**: Displays a list of movies for users to browse.
+> **Description**: Displays a list of movies for users to browse. *(GIF)*
 
 </details>
 
@@ -44,7 +44,7 @@
 
 ![Search Movie Page](https://github.com/user-attachments/assets/95c50b85-96aa-4615-b4b5-2adc839b899f)
 
-> **Description**: Allows users to search for specific movies by title or keywords.
+> **Description**: Allows users to search for specific movies by title or keywords. *(GIF)*
 
 </details>
 
@@ -53,7 +53,7 @@
 
 ![Top 250 Movie Page](https://github.com/user-attachments/assets/ae9fb4e2-849f-472d-87ce-f7971ea72329)
 
-> **Description**: Showcases the top 250 movies based on ratings.
+> **Description**: Showcases the top 250 movies based on ratings. *(GIF)*
 
 </details>
 
@@ -62,7 +62,7 @@
 
 ![Upcoming Movie Page](https://github.com/user-attachments/assets/47008cb8-4cda-468c-b6ea-17becffa8e2d)
 
-> **Description**: Displays a list of movies that will be released soon.
+> **Description**: Displays a list of movies that will be released soon. *(GIF)*
 
 </details>
 
@@ -71,6 +71,6 @@
 
 ![Synchronize and Personal Profile Page](https://github.com/user-attachments/assets/dabbe065-9c0b-4d71-9e4c-c56a1784b0e7)
 
-> **Description**: Enables users to synchronize their data and update personal preferences.
+> **Description**: Enables users to synchronize their data and update personal preferences. *(GIF)*
 
 </details>
