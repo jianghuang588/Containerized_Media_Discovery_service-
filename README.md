@@ -1,4 +1,4 @@
-# 🎬 Movie Finder App Documentation
+# 🎬 Containerized Media Discovery service 
 
 ---
 
