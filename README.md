@@ -20,6 +20,7 @@
 ---
 
 ### 📝 **Screencasts (GIFs)**
+**(gif file may take 1-2 minute to load due to the size)**
 
 <details>
 <summary>🔐 **Register and Login Screen**</summary>
