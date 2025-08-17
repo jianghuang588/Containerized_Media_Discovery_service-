@@ -1,4 +1,4 @@
-# 🎬 Containerized Media Discovery service 
+# 🎬 Movie_App
 
 ---
 
